@@ -34,7 +34,6 @@ The code file structure is as below
      # Utility script
 
 ```
-![Segmented Image](/figures/output_segment.png)
 ## 1.Download LIDC-IDRI dataset
 First you would have to download the whole LIDC-IDRI [dataset](https://wiki.cancerimagingarchive.net/display/Public/LIDC-IDRI).
 On the website, you will see the Data Acess section. You would need to click Search button to specify the images modality.
@@ -93,10 +92,7 @@ The Meta folder contains the meta.csv file. The csv file contains information of
 
 
 ## 5. Contributing and Acknowledgement
-I started this Lung cancer detection project a year ago. I was really a newbie to python. I didn't even understand what a directory setting is at the time! However, I had to complete this project
-for some personal reasons. I looked through google and other githubs. But most of them were too hard to understand and the code itself lacked information. I hope my codes here could help
-other researchers first starting to do lung cancer detection projects. Please give a star if you found this repository useful.
 
-here is the link of github where I learned a lot from. Some of the codes are sourced from below.
+Here is the link of github where I learned a lot from. Some of the codes are sourced from below.
 1. https://github.com/mikejhuang/LungNoduleDetectionClassification
 
